@@ -13,7 +13,7 @@ The purpose of this credit risk analysis is to develop and evaluate machine lear
   - **Precision Score (high-risk label):** 85%
   - **Recall Score (high-risk label):** 95%
 
-* **Logistic Regression Model with Resampled Data:**
+**Logistic Regression Model with Resampled Data:**
   - **Accuracy Score:** 99.36%
   - **Precision Score (low-risk label):** 100%
   - **Recall Score (low-risk label):** 99%
